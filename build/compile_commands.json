@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zero/projects/parsers/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/parser.dir/simplearithmeticparser.c.o -c /home/zero/projects/parsers/simplearithmeticparser.c",
+  "file": "/home/zero/projects/parsers/simplearithmeticparser.c"
+}
+]

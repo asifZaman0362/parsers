@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/parser.dir/simplearithmeticparser.c.o -o parser 
